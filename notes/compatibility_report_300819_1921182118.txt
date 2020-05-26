@@ -1,0 +1,134 @@
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+!!! Font fSmallText font family 둥근모꼴 is installed but couldn't match style - Font has NOT been regenerated
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\fSmallText\fSmallText.gms1.png
+!!! Font fMidText font family 둥근모꼴 is installed but couldn't match style - Font has NOT been regenerated
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\fMidText\fMidText.gms1.png
+Font fBigText has been converted to font family 둥근모꼴 (???)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\fBigText\fBigText.gms1.png
+Converting GML script: ${project_dir}\objects\oStartDraw\Step_0.gml
+Converted description /// @description start_btn_click
+
+Converting GML script: ${project_dir}\objects\oStartDraw\Draw_0.gml
+Converted description /// @description text_draw
+
+Converting GML script: ${project_dir}\objects\oBestScoreDraw\Draw_0.gml
+Converted description /// @description score_draw
+
+Converting GML script: ${project_dir}\objects\oCoinDraw\Draw_0.gml
+Converted description /// @description coin_draw
+
+Converting GML script: ${project_dir}\objects\oPriceDraw\Draw_0.gml
+Converted description /// @description price_draw
+
+Converting GML script: ${project_dir}\objects\oPageDraw\Draw_0.gml
+Converted description /// @description price_draw
+
+Converting GML script: ${project_dir}\objects\oStore_btn\Step_0.gml
+Converted description /// @description store_btn_click
+
+Converting GML script: ${project_dir}\objects\oPlayer\Create_0.gml
+Converted description /// @description player_setting
+
+Converting GML script: ${project_dir}\objects\oPlayer\Step_0.gml
+Converted builtin - line 51: background_hspeed[0] = 0 -> __background_set( e__BG.HSpeed, 0, 0 )
+Converted description /// @description player_movement
+
+Converting GML script: ${project_dir}\objects\oEnemy_01\Create_0.gml
+Converted description /// @description enemy_setting
+
+Converting GML script: ${project_dir}\objects\oEnemy_01\Step_0.gml
+Converted description /// @description enemy_movement
+
+Converting GML script: ${project_dir}\objects\oEnemy_02\Create_0.gml
+Converted description /// @description enemy_setting
+
+Converting GML script: ${project_dir}\objects\oEnemy_02\Step_0.gml
+Converted description /// @description enemy_movement
+
+Converting GML script: ${project_dir}\objects\oCheck\Create_0.gml
+Converted description /// @description check_setting
+
+Converting GML script: ${project_dir}\objects\oCheck\Step_0.gml
+Converted description /// @description check_movement
+
+Converting GML script: ${project_dir}\objects\oSpown\Create_0.gml
+Converted description /// @description spown_setting
+
+Converting GML script: ${project_dir}\objects\oSpown\Step_0.gml
+Converted description /// @description spowning
+
+Converting GML script: ${project_dir}\objects\oScore\Draw_0.gml
+Converted description /// @description score_draw
+
+Converting GML script: ${project_dir}\objects\oCoin\Create_0.gml
+Converted description /// @description coin_setting
+
+Converting GML script: ${project_dir}\objects\oCoin\Step_0.gml
+Converted description /// @description coin_movement
+
+Converting GML script: ${project_dir}\objects\oFinishDraw\Step_0.gml
+Converted description /// @description mouse_btn_click
+
+Converting GML script: ${project_dir}\objects\oFinishDraw\Draw_0.gml
+Converted description /// @description text_draw
+
+Converting GML script: ${project_dir}\objects\oStop_Btn\Step_0.gml
+Converted builtin - line 8: background_hspeed[0] = 0 -> __background_set( e__BG.HSpeed, 0, 0 )
+Converted builtin - line 11: background_hspeed[0] = -1 -> __background_set( e__BG.HSpeed, 0, -1 )
+Converted description /// @description click_stop
+
+Converting GML script: ${project_dir}\objects\oCoinEffect\Draw_0.gml
+Converted description /// @description text_draw
+
+Converting GML script: ${project_dir}\objects\oSystem\Create_0.gml
+Converted description /// @description system_load
+
+Converting GML script: ${project_dir}\objects\oSystem\Step_0.gml
+Converted description /// @description system_time & speed
+
+Converting GML script: ${project_dir}\objects\oStore\Create_0.gml
+Converted description /// @description store_setting
+
+Converting GML script: ${project_dir}\objects\oStore\Step_0.gml
+Converted description /// @description store_data_write
+
+Converting GML script: ${project_dir}\objects\oPlayer_01_Buy_Btn\Create_0.gml
+Converted description /// @description setting
+
+Converting GML script: ${project_dir}\objects\oPlayer_01_Buy_Btn\Step_0.gml
+Converted description /// @description sprtie_setting
+
+Converting GML script: ${project_dir}\objects\oPlayer_02_Buy_Btn\Create_0.gml
+Converted description /// @description setting
+
+Converting GML script: ${project_dir}\objects\oPlayer_02_Buy_Btn\Step_0.gml
+Converted description /// @description sprtie_setting
+
+Converting GML script: ${project_dir}\objects\oPlayer_03_Buy_Btn\Create_0.gml
+Converted description /// @description setting
+
+Converting GML script: ${project_dir}\objects\oPlayer_03_Buy_Btn\Step_0.gml
+Converted description /// @description sprtie_setting
+
+Converting GML script: ${project_dir}\objects\oOut_Btn\Step_0.gml
+Converted description /// @description click_out
+
+Converting GML script: ${project_dir}\objects\oLeft\Step_0.gml
+Converted description /// @description click_out
+
+Converting GML script: ${project_dir}\objects\oRight\Step_0.gml
+Converted description /// @description click_out
+
+Missing audiogroup for sound: 'sBGM' - setting to default audio group
+Game speed set to 30
+Added compatibility script 'background/__background_set.gml'
+Added compatibility script 'background/__background_set_internal.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'background/__init_background.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script 'background/__background_get_element.gml'
+Added compatibility script 'background/__background_get_internal.gml'
+Added compatibility script 'background/__background_set_element.gml'
+Added compatibility script '__global_object_depths.gml'
